@@ -2,7 +2,6 @@
   "name": "ng-cast",
   "version": "1.0.0",
   "description": "TASK: Re-Build YouTube with AngularJS in 2 days",
-  "author": "Hack Reactor",
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
